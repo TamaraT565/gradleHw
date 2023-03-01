@@ -1,0 +1,5 @@
+rootProject.name = 'fcGradle'
+include 'api'
+include 'db'
+include 'service'
+
